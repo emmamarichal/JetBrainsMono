@@ -5,6 +5,7 @@ axisOrder:
   - wght
   - ital
 familyName: JetBrains Mono
+cleanUp: true
 stat:
   JetBrainsMono[wght].ttf:
   - name: Weight
